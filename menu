@@ -75,6 +75,7 @@ echo -e "${cor[2]}  https://youtube.com/RealHackRWAM "
 echo -e "${cor[1]} =================================== ${cor[0]}"
 source menu
 exit
+;;
 *)
 source menu
 ;;
