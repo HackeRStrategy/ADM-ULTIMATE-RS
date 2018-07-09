@@ -71,7 +71,7 @@ ${value} ${idioma}
 ;;
 10)
 echo -e "${cor[1]} =================================== ${cor[0]}"
-echo -e "${cor[2]} \033[1;32m https://youtube.com/RealHackRWAM "
+echo -e "${cor[2]}  https://youtube.com/RealHackRWAM "
 echo -e "${cor[1]} =================================== ${cor[0]}"
 source menu
 exit
