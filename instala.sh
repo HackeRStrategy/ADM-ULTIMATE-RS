@@ -137,7 +137,7 @@ id="es"
 esac
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 echo -e ""
-echo -e "${cor[2]} $(source trans -b pt:${id} "")\n\033[1;33m Script Modificado por:\033[1;32m@Joseph D acasiete\033[0m"
+echo -e "${cor[2]} $(source trans -b pt:${id} "")\n\033[1;33m Script Modificado por:\033[1;33m@RealStrategy el prosor\033[0m"
 echo -e ""
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 echo -e "${cor[5]} $(source trans -b pt:${id} "INSTALADOR ADM-SCRIPTS") ®"
